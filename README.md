@@ -4,6 +4,8 @@ Neste projeto, criamos uma página de busca de Digimons com o intuito de aplicar
 
 [Digimon Search](https://alinealien.github.io/digimon-screen/)
 
+1. Realizando  alteraçao de testes para o nosso repositorio
+
 
 **IDE Utilizada:** Visual Studio Code.
 
